@@ -13,7 +13,7 @@ Advanced SQL: Window Functions
 
 https://www.linkedin.com/learning/advanced-sql-window-functions/course-introduction?autoplay=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A5ee163f0498efe0ef0dfd87c&u=2157089
 
-Learning objectives:
+Learned topics:
 
      - Query/Subquery logical processing order
 
